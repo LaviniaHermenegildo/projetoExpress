@@ -4,7 +4,7 @@ Site de streaming- Cronos
 
 **Tema:** História mundial e do Brasil em um só lugar.
 
-**Slogan:** *O passado nunca esteve tão perto.*
+**Slogan:** *Reviva o passado.*
 
 **Projeto Express — SENAI São Paulo · Félix Guisard · Técnico em Desenvolvimento de Sistemas · 2026**
 
